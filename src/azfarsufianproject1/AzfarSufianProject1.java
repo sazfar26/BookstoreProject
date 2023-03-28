@@ -19,6 +19,7 @@ public class AzfarSufianProject1 {
     public static void main(String[] args) throws InterruptedException {
         
         //Initialize books, CDs, DVDs and Customer here
+        //Test comment
         Customer aCustomer = new Customer();
         ArrayList<Customer> memberList = new ArrayList();
         Book catInHat = new Book("The Cat in The Hat", 6.50, "Dr. Seuss", "Fiction");
